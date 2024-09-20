@@ -1,0 +1,37 @@
+[
+  {
+    "text": "Would you prefer a playful or calm dog?",
+    "options": [
+      { "label": "Playful", "value": "playful" },
+      { "label": "Calm", "value": "calm" }
+    ]
+  },
+  {
+    "text": "Do you live in an apartment or a house?",
+    "options": [
+      { "label": "Apartment", "value": "apartment" },
+      { "label": "House", "value": "house" }
+    ]
+  },
+  {
+    "text": "How much exercise can you provide daily?",
+    "options": [
+      { "label": "Low Exercise", "value": "low_exercise" },
+      { "label": "High Exercise", "value": "high_exercise" }
+    ]
+  },
+  {
+    "text": "Do you have children?",
+    "options": [
+      { "label": "Yes", "value": "has_children" },
+      { "label": "No", "value": "no_children" }
+    ]
+  },
+  {
+    "text": "Are you looking for a hypoallergenic breed?",
+    "options": [
+      { "label": "Yes", "value": "hypoallergenic" },
+      { "label": "No", "value": "not_hypoallergenic" }
+    ]
+  }
+]

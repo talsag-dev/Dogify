@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Golden Retriever",
+    "traits": ["playful", "active", "friendly"],
+    "image": "/src/assets/images/golden_retriever.jpg",
+    "description": "Friendly, playful, and loves to be around people."
+  },
+  {
+    "name": "Bulldog",
+    "traits": ["calm", "sleepy", "affectionate"],
+    "image": "/src/assets/images/bulldog.jpg",
+    "description": "Calm, friendly, and loves lounging around."
+  },
+  {
+    "name": "Poodle",
+    "traits": ["active", "intelligent", "hypoallergenic"],
+    "image": "/src/assets/images/poodle.jpg",
+    "description": "Intelligent, active, and suitable for allergy sufferers."
+  }
+]

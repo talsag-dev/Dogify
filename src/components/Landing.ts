@@ -1,5 +1,3 @@
-// src/components/Landing.ts
-
 export function renderLanding() {
   const main = document.getElementById("main")!;
   main.innerHTML = `

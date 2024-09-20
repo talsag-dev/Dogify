@@ -1,12 +1,6 @@
 // src/components/Results.ts
 
-interface Breed {
-  name: string;
-  traits: string[];
-  image: string;
-  description: string;
-  matchCount?: number;
-}
+import { Breed } from "../../types";
 
 export function renderResults(matchedBreeds: Breed[]) {
   const main = document.getElementById("main")!;
