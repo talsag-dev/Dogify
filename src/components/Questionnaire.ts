@@ -1,5 +1,3 @@
-// src/components/Questionnaire.ts
-
 export function renderQuestionnaire(
   currentQuestion: number,
   questionText: string,
